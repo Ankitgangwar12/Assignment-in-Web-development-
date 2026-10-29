@@ -3,27 +3,27 @@ personal introduction html
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Hi, I'm Aarav - Personal Introduction - HTML & CSS course assignment">
+    <meta name="description" content="Hi, I'm Ankit - Personal Introduction - HTML & CSS course assignment">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hi, I'm Aarav - Personal Introduction</title>
+    <title>Hi, I'm Ankit - Personal Introduction</title>
 </head>
 <body>
     <header>
-        <h1>Hi, I'm Aarav Sharma 👋</h1>
-        <p><em>Web development student &bull; Cricket fan &bull; Coffee lover</em></p>
+        <h1>Hi, I'm Ankit </h1>
+        <p><em>Web development student </em></p>
     </header>
 
     <main>
         <section>
             <h2>About Me</h2>
-            <p>I am a second-year computer-science student from Meerut. I enjoy building things for the web and am currently learning HTML and CSS.</p>
+            <p>I am a first-year BCAI student from Bareilly. I enjoy building things for the web and am currently learning HTML and CSS.</p>
         </section>
 
         <section>
             <h2>Quick Facts</h2>
             <ul>
-                <li><strong>Age:</strong> 20</li>
-                <li><strong>City:</strong> Meerut, India</li>
+                <li><strong>Age:</strong> 17</li>
+                <li><strong>City:</strong> Barey, India</li>
                 <li><strong>Languages:</strong> Hindi, English</li>
             </ul>
         </section>
@@ -39,12 +39,12 @@ personal introduction html
 
         <section>
             <h2>Contact</h2>
-            <p>Email me at <a href="mailto:aarav@example.com">aarav@example.com</a>.</p>
+            <p>Email me at <a href="mailto:ankit@example.com">ankit@example.com</a>.</p>
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2026 Aarav Sharma</p>
+        <p>&copy; 2026 Ankit</p>
     </footer>
 </body>
 </html>
